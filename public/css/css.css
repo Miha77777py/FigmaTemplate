@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+ul {
+    list-style: none;
+}
+
+main {
+    width: 1000px;
+    height: 1240px;
+    flex-shrink: 0;
+    margin-left: 148px;
+}
+
+header {
+    height: 19px;
+    flex-shrink: 0;
+}
+
+.other {
+    color: #7D7D7D;
+    font-size: 14px;
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#first {
+    color: #03A9F4;
+    font-size: 14px;
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#navigation ul li a {
+    text-decoration: none;
+}
+
+#navigation ul li {
+    display: inline-block;
+}
+
+#navigation ul {
+    padding-left: 0;
+    width: 1000px;
+}
+
+header {
+    margin-left: 315px;
+    margin-top: 71px;
+}
+
+#content {
+    padding: 0;
+    width: 1000px;
+    margin-top: 92px;
+}
+
+.content-li {
+    width: 420px;
+    height: 546px;
+    flex-shrink: 0;
+    display: inline-block;
+}
+
+.content-li p {
+    display: flex;
+    width: 420px;
+    flex-direction: column;
+    flex-shrink: 0;
+    font-style: normal;
+    line-height: normal;
+}
+
+.left {
+    margin-right: 65px;
+}
+
+.mini-p {
+    margin-top: 62px;
+    margin-bottom: 32px;
+    color: #B4AD9E;
+    font-size: 14px;
+    font-family: "Ubuntu";
+}
+
+.h {
+    color: #626262;
+    font-size: 30px;
+    font-family: "Playfair Display";
+    font-weight: 400;
+    margin: 0;
+    margin-bottom: 40px;
+}
+
+.text {
+    color: #626262;
+    font-size: 14px;
+    font-family: "Playfair Display";
+    font-weight: 400;
+}
+
+.top {
+    margin-bottom: 130px;
+}
+
+button {
+    width: 165px;
+    height: 60px;
+    flex-shrink: 0;
+    color: #626262;
+    font-size: 14px;
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background-color: white;
+    margin: 62px 0 47px 506px;
+}
+
+.notlast {
+    margin-right: 99px;
+}
